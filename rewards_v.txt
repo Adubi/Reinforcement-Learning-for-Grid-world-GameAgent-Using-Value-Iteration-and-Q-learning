@@ -1,0 +1,12 @@
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Lost,Lost,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Lost,Won,Won,Won,Lost,Lost,Won,Won,Won,Lost,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won

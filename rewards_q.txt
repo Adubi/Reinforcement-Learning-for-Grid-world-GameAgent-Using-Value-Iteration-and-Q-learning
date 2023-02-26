@@ -1,0 +1,11 @@
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Lost,Won,Lost,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Lost,Won
+Lost,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Lost,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Lost,Lost,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Lost,Lost,Won,Won,Won,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won,Won,Won,Won,Lost,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won
+Lost,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Won,Lost,Won
